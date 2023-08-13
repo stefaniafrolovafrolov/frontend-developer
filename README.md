@@ -1,15 +1,15 @@
-## yandex-testovoe
+## frontend-developer
 
 <div id="header" align="center" >
 	<h1>Hi 👋, I'm Vadim</h1>
 	<h3>Full Stack Developer</h3>
 </div>
 
-## Тестовое задание для Яндекс Практикума на должность наставника
+## Тестовое задание для Яндекс Практикума на должность наставника младших групп
 
 ## Ссылка на репозиторий
 
-- https://stefaniafrolovafrolov.github.io/yandex-testovoe/
+- https://stefaniafrolovafrolov.github.io/frontend-developer/
 
 ## Ссылка на Яндекс облако (на этом сервере задеплоен мой проект)
 
@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+
+## Ccылки
+
+IP
+
+Frontend
+
+Backend
 
 ## Автор
 
