@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Ccылки
 
-IP 158.160.112.201
+IP 158.160.102.203
 
 Frontend https://tomik.nomoredomains.work
 
