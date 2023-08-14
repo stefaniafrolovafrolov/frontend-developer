@@ -1,8 +1,8 @@
 import React from "react"
 import "./Projects.css"
 import arrow from "../../assets/image-ee/arrow.svg"
-import video from "../../assets/video/bandicamfinish.mp4"
-import videoScrinCast from "../../assets/video/yandexscrincast.mp4"
+import video from "../../assets/video/bandicamfinish7.mp4"
+import videoScrinCast from "../../assets/video/yandexscrincast7.mp4"
 
 // Компонент с портфолио и ссылками на свои работы.
 export const Projects = () => {
