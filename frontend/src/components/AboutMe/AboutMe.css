@@ -4,6 +4,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  align-items: center;
   align-self: center;
 }
 
@@ -70,6 +71,25 @@
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 10px;
+}
+
+@media screen and (max-width: 1293px) {
+  .about-me__container {
+    max-width: 1200px;
+  }
+}
+
+@media screen and (max-width: 1173px) {
+  .about-me__container {
+    max-width: 1050px;
+  }
+
+  .about-me__description {
+    max-width: 630px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+  }
 }
 
 @media screen and (max-width: 1023px) {

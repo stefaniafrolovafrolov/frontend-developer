@@ -59,6 +59,12 @@
   letter-spacing: -0.04em;
 }
 
+@media screen and (max-width: 1050px) {
+  .portfolio__list {
+    margin-bottom: 70px;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .portfolio {
     padding: 0 50px 90px 50px;
@@ -82,5 +88,25 @@
   .portfolio__description {
     font-size: 18px;
     line-height: 28px;
+  }
+}
+
+@media screen and (max-width: 401px) {
+  .portfolio__list {
+    margin-bottom: 70px;
+  }
+
+  .portfolio__description {
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 353px) {
+  .portfolio__list {
+    width: 310px;
+  }
+
+  .portfolio__description {
+    max-width: 300px;
   }
 }

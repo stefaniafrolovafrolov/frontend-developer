@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ## Ccылки
 
-IP
+IP 158.160.112.201
 
-Frontend
+Frontend https://tomik.nomoredomains.work
 
-Backend
+Backend https://api.tomik.nomoredomains.work
 
 ## Автор
 

@@ -3,9 +3,45 @@
 .navigation {
   display: flex;
   position: fixed;
-  left: 32%;
-  right: 32%;
   bottom: 20px;
+  left: 38%;
+  transform: translateX(-50%); /* Центрирование по горизонтали */
+
+  @media (max-width: 1360px) {
+    left: 28%;
+  }
+
+  @media (max-width: 1000px) {
+    left: 24%;
+  }
+
+  @media (max-width: 840px) {
+    left: 17%;
+  }
+
+  @media (max-width: 693px) {
+    left: 10%;
+  }
+
+  @media (max-width: 530px) {
+    left: 15%;
+  }
+
+  @media (max-width: 461px) {
+    left: 13%;
+  }
+
+  @media (max-width: 389px) {
+    left: 11%;
+  }
+
+  @media (max-width: 350px) {
+    left: 7%;
+  }
+
+  @media (max-width: 333px) {
+    left: 5%;
+  }
 
   .container {
     display: flex;
@@ -18,7 +54,15 @@
     width: 560px;
 
     @media (max-width: 680px) {
-      width: 320px;
+      width: 380px;
+    }
+
+    @media (max-width: 461px) {
+      width: 330px;
+    }
+
+    @media (max-width: 389px) {
+      width: 300px;
     }
 
     .item {

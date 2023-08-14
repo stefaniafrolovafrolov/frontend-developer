@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://',
-  'http://',
+  'https://tomik.nomoredomains.work',
+  'http://tomik.nomoredomains.work',
   'https://localhost:3000',
   'http://localhost:3000',
   'https://localhost:3001',
