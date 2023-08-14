@@ -2,13 +2,13 @@ import React from "react"
 import "./Projects.css"
 import arrow from "../../assets/image-ee/arrow.svg"
 import video from "../../assets/video/bandicamfinish.mp4"
-import videoScrinCast from "../../assets/video/yandex-scrincast.mp4"
+import videoScrinCast from "../../assets/video/yandexscrincast.mp4"
 
 // Компонент с портфолио и ссылками на свои работы.
 export const Projects = () => {
   return (
     <section className="portfolio">
-       <h2 className="portfolio__titleOne">Видео демонстрация приложения</h2>
+      <h2 className="portfolio__titleOne">Видео демонстрация приложения</h2>
       <video
         className="portfolio__video"
         src={video}

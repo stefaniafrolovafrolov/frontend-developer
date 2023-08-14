@@ -8,9 +8,6 @@ node_modules
 # SECRET_KEY
 .env
 
-*.mp4
-
-
 # Optional npm cache directory
 .npm
 
