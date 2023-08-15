@@ -10,7 +10,7 @@ const links = [
   { link: '/', icon: FcHome },
   { link: '/skills', icon: FcEngineering },
   { link: '/education', icon: FcGraduationCap },
-  { link: '/profile', icon: FcEditImage },
+ // { link: '/profile', icon: FcEditImage },
   //{ link: '/message', icon: FcAbout },
 ]
 
